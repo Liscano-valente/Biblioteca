@@ -1,0 +1,54 @@
+img {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+}
+.main-page {
+  background-color: rgb(136, 3, 197);
+}
+
+#descricao2 {
+  display: flex;
+  text-align: left;
+  align-items: auto;
+  margin-top: 8px;
+}
+.footer-page {
+  background-color: rgb(0, 0, 0);
+  height: 50px;
+  width: 100%;
+}
+#title {
+  border-bottom: 2px solid black;
+  padding-bottom: 8px;
+}
+#descricao {
+  border-bottom: 2px solid black;
+  padding-bottom: 8px;
+}
+.botao {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #979797;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+.botao:hover {
+  background-color: #818181;
+}
+.botao1 {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #003cff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+.botao1:hover {
+  background-color: blue;
+}
